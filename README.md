@@ -1,5 +1,5 @@
 # American-Express---Default-Prediction
-This competition starting from May 25, 2022 to August 24, 2022
+Competition starting from May 25, 2022 to August 24, 2022
 
 # Description
 レストランでの食事やコンサートのチケット購入など、現代の生活では日々の買い物にクレジットカードの利便性が欠かせません。
