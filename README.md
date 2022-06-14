@@ -9,6 +9,7 @@ This competition starting from May 25, 2022 to August 24, 2022
    　https://www.kaggle.com/code/ambrosm/amex-eda-which-makes-sense/notebook
 ・ベースラインのままsubmit
 　・ファイル名：code_1
+　・version：1
 　・スコア：0.794
 　・順位：495位
 　
